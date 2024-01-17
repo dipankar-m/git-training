@@ -1,3 +1,5 @@
 This is a test message for git-training.
 
 //This is the added content.
+
+//Example of merge conflict
