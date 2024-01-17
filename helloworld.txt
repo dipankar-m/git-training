@@ -2,4 +2,4 @@ This is a test message for git-training.
 
 //This is the added content.
 
-//Example of merge conflict
+//This is a example of merge conflict
